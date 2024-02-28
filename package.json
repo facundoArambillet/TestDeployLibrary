@@ -22,7 +22,7 @@
     "@angular/router": "^16.1.0",
     "@ngx-translate/core": "^15.0.0",
     "chart.js": "^4.4.2",
-    "complaints-client": "file:../techforb-digitalsuite-front-/digital-suite-front/dist/complaints-client/complaints-client-0.0.1.tgz",
+    "complaints-client": "^0.0.1",
     "ngx-translate-multi-http-loader": "^17.0.0",
     "primeng": "^16.9.1",
     "rxjs": "~7.8.0",
